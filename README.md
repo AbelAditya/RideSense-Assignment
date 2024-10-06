@@ -52,3 +52,7 @@ flutter run
     - This package is used to request and check permissions at runtime. It helps to ensure that the user has granted necessary permissions like location access.
 
 ## Screenshots
+![home text](./assets/home.jpg)
+![map 1](./assets/map1.jpg)
+![map 2](./assets/map2.jpg)
+![satellite map](./assets/satmap.jpg)
